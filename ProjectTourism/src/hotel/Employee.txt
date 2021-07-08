@@ -1,0 +1,4 @@
+null  null  null  null  null  
+____
+10  114  15  0.6  6840.0  
+____
